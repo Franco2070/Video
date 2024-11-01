@@ -1,1 +1,24 @@
+#EXTM3U
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="TELEMUNDO", TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1  tvg-logo="https://logos.fandom.com/es/wiki/Sony_Cine?file=Sony_Cine_2021_Logo.png" group-title="Principal" tvg-name="SONY CINE", SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://ipparaguay.com.py/wp-content/uploads/2020/10/Gen-en-vivo.jpg" group-title="Principal" tvg-name="GEN TV", GEN TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" group-title="Principal" tvg-name="NEO TV", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/c7/f9/e7c7f9b3-855a-2ad7-2f07-3b22bf304ace/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" group-title="Principal" tvg-name="FM 1", FM 1
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Principal" tvg-name="CINE +", CINE +
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="TELEMUNDO", CINE +
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="MONI TV", MONI TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="CW", CW
+https://glb.bozztv.com/glb/ssh101/88channel/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Principal" tvg-name="TV PRIME", TV PRIME
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
