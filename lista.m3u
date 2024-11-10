@@ -12,7 +12,7 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/details/terror_202411/moni.png" group-title="Principal" tvg-name="MONI TV", MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1  tvg-logo="https://archive.org/download/terror_202411/ayw.png" group-title="Principal" tvg-name="CW", CW
+#EXTINF:-1  tvg-logo="https://ia800402.us.archive.org/5/items/terror_202411/ayw.png" group-title="Principal" tvg-name="CW", CW
 https://glb.bozztv.com/glb/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/details/terror_202411/tvs%20live.png" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
