@@ -12,6 +12,8 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Principal" tvg-name="MONI TV", MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Principal" tvg-name="Retro Plus", Retro Plus
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w602424988.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/XygQvQKTac4qLgXc8MNLZX-320-75.png" group-title="Principal" tvg-name="CW", CW
 https://glb.bozztv.com/glb/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2_400x400.jpg" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
