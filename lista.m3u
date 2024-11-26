@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="Sport" tvg-logo="" group-title="Principal",Sport
+https://fl1004.bozztv.com/ssh101/zoytvsports/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport2" tvg-logo="" group-title="Principal",Sport2
+https://fl1002.bozztv.com/ssh101/zoytvsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport3" tvg-logo="" group-title="Principal",Sport3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ipparaguay.com.py/wp-content/uploads/2020/10/Gen-en-vivo.jpg" group-title="Principal" tvg-name="GEN TV", GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" group-title="Principal" tvg-name="NEO TV", NEO TV
