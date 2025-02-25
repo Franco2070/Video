@@ -8,7 +8,7 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnZKXwYj/terror.png" group-title="Principal" tvg-name="TERROR TV", TERROR TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/N0SKC8rP/moni.png" group-title="Principal" tvg-name="MONI TV", MONI TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://fl1004.bozztv.com/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/dVS3DRnt/retrotv.png" group-title="Principal" tvg-name="Retro Plus", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w602424988.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/zXrg1k2s/ayw.png" group-title="Principal" tvg-name="CW", CW
@@ -16,9 +16,9 @@ https://glb.bozztv.com/glb/ssh101/88channel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XtfyH1k/tvs-live.png" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5Ng6WWCz/prime.png" group-title="Principal" tvg-name="TV PRIME", TV PRIME
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NFw5BgD6/mix.png" group-title="Principal" tvg-name="MIX BOLIVIA", MIX BOLIVIA
-https://glb.bozztv.com/glb/ssh101/mixboliviatvvip/playlist.m3u8
+https://fl1004.bozztv.com/ssh101/mixboliviatvhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Wb5bfmB6/tvs-retro.png" group-title="Principal" tvg-name="TVS RETRO", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/vZ8x4ZsX/bayres.png" group-title="Principal" tvg-name="BAYRES TV", BAYRES TV
