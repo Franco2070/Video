@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://ipparaguay.com.py/wp-content/uploads/2020/10/Gen-en-vivo.jpg" group-title="Principal" tvg-name="GEN TV", GEN TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrKck6n/gen.png" group-title="Principal" tvg-name="GEN TV", GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" group-title="Principal" tvg-name="NEO TV", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
