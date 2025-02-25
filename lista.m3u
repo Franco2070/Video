@@ -1,49 +1,49 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrKck6n/gen.png" group-title="Principal" tvg-name="GEN TV", GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1  tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png" group-title="Principal" tvg-name="NEO TV", NEO TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RhQq0jpj/neo.png" group-title="Principal" tvg-name="NEO TV", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/c7/f9/e7c7f9b3-855a-2ad7-2f07-3b22bf304ace/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" group-title="Principal" tvg-name="FM 1", FM 1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SxZ2CbQ4/fmtv.png" group-title="Principal" tvg-name="FM 1", FM 1
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Principal" tvg-name="CINE +", CINE +
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HW5yKNz0/cine.png" group-title="Principal" tvg-name="CINE +", CINE +
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Terror_TV_logo.jpg/220px-Terror_TV_logo.jpg" group-title="Principal" tvg-name="TERROR TV", TERROR TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnZKXwYj/terror.png" group-title="Principal" tvg-name="TERROR TV", TERROR TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Principal" tvg-name="MONI TV", MONI TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/N0SKC8rP/moni.png" group-title="Principal" tvg-name="MONI TV", MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Principal" tvg-name="Retro Plus", Retro Plus
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/dVS3DRnt/retrotv.png" group-title="Principal" tvg-name="Retro Plus", Retro Plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w602424988.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/XygQvQKTac4qLgXc8MNLZX-320-75.png" group-title="Principal" tvg-name="CW", CW
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/zXrg1k2s/ayw.png" group-title="Principal" tvg-name="CW", CW
 https://glb.bozztv.com/glb/ssh101/88channel/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2_400x400.jpg" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XtfyH1k/tvs-live.png" group-title="Principal" tvg-name="TVS LIVE", TVS LIVE
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-#EXTINF:-1  tvg-logo="https://www.tvprime.cc/wp-content/uploads/tv-prime-plus-logo.png" group-title="Principal" tvg-name="TV PRIME", TV PRIME
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Ng6WWCz/prime.png" group-title="Principal" tvg-name="TV PRIME", TV PRIME
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2bd0673f7b040fe9c5047d195ae33f25.webp" group-title="Principal" tvg-name="MIX BOLIVIA", MIX BOLIVIA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NFw5BgD6/mix.png" group-title="Principal" tvg-name="MIX BOLIVIA", MIX BOLIVIA
 https://glb.bozztv.com/glb/ssh101/mixboliviatvvip/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tvs.png" group-title="Principal" tvg-name="TVS RETRO", TVS RETRO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Wb5bfmB6/tvs-retro.png" group-title="Principal" tvg-name="TVS RETRO", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1  tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/bayres-tv.png" group-title="Principal" tvg-name="BAYRES TV", BAYRES TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vZ8x4ZsX/bayres.png" group-title="Principal" tvg-name="BAYRES TV", BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99912765d4b4234eab782b5beb81286d.webp" group-title="Principal" tvg-name="PLANETA TV", PLANETA TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zCs1XR0/planeta.png" group-title="Principal" tvg-name="PLANETA TV", PLANETA TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://uvatvhd.com/logo.png" group-title="Principal" tvg-name="TV UVA", TV UVA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FsrHZCBH/uva-tv.png" group-title="Principal" tvg-name="TV UVA", TV UVA
 https://glb.bozztv.com/glb/ssh101/tvhduva/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo.jpg" group-title="Principal" tvg-name="TV RETRO PALMARES", TV RETRO PALMARES
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/ZYrWjdYV/palmares.png" group-title="Principal" tvg-name="TV RETRO PALMARES", TV RETRO PALMARES
 https://glb.bozztv.com/glb/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="Principal" tvg-name="MI TV CLASICA", MI TV CLASICA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DZG89Wrf/mitv.png" group-title="Principal" tvg-name="MI TV CLASICA", MI TV CLASICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ClasicoTV.jpg" group-title="Principal" tvg-name="TL CLASICA", TL CLASICA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1GVWbFL/teleclasica.png" group-title="Principal" tvg-name="TL CLASICA", TL CLASICA
 https://glb.bozztv.com/glb/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://serenotv.com/cargas/2024/07/canal-retrox-tv-560x315.jpg" group-title="Principal" tvg-name="RETRO X", RETRO X
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/dVS3DRnt/retrotv.png" group-title="Principal" tvg-name="RETRO X", RETRO X
 https://glb.bozztv.com/glb/ssh101/retroxcr/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/7acae1_8dc4cf299fb34214ad9e49492ee42421~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-BarbeTv.png" group-title="Principal" tvg-name="BARBE TV", BARBE TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FsVJFJ27/barbe.png" group-title="Principal" tvg-name="BARBE TV", BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1  tvg-logo="https://serenotv.com/cargas/2023/09/RETRO-TV-LOGO.jpg" group-title="Principal" tvg-name="RETRO TV", RETRO TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L62nW8nR/retro-online.png" group-title="Principal" tvg-name="RETRO TV", RETRO TV
 https://glb.bozztv.com/glb/ssh101/retrotvcr/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" group-title="Principal" tvg-name="TOP CINE", TOP CINE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/zvjXNTVN/top-cine.png" group-title="Principal" tvg-name="TOP CINE", TOP CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1  tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="Principal" tvg-name="STV", STV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0NTN08LT/stv.png" group-title="Principal" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1  tvg-logo="https://colegioformula.com.br/wp-content/themes/formula/assets/img/sas-tv.png" group-title="Principal" tvg-name="SAS TV", SAS TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/R06Ft3b1/sas-tv.png" group-title="Principal" tvg-name="SAS TV", SAS TV
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
