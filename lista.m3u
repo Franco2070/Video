@@ -3,8 +3,6 @@
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/RhQq0jpj/neo.png" group-title="Principal" tvg-name="NEO TV", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SxZ2CbQ4/fmtv.png" group-title="Principal" tvg-name="FM 1", FM 1
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HW5yKNz0/cine.png" group-title="Principal" tvg-name="CINE +", CINE +
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnZKXwYj/terror.png" group-title="Principal" tvg-name="TERROR TV", TERROR TV
@@ -33,6 +31,8 @@ https://glb.bozztv.com/glb/ssh101/tvhduva/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/DZG89Wrf/mitv.png" group-title="Principal" tvg-name="MI TV CLASICA", MI TV CLASICA
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SxZ2CbQ4/fmtv.png" group-title="Principal" tvg-name="FM 1", FM 1
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/d1GVWbFL/teleclasica.png" group-title="Principal" tvg-name="TL CLASICA", TL CLASICA
 https://glb.bozztv.com/glb/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/dVS3DRnt/retrotv.png" group-title="Principal" tvg-name="RETRO X", RETRO X
